@@ -1,6 +1,7 @@
 # PiMinecraftServer
 
 ### Dockerfile for running minecraft server on Raspberry Pi 4
+### Minecraft version: 1.19
 
 ---
 
